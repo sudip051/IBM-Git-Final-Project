@@ -1,2 +1,6 @@
-# IBM-Git-Final-Project
-Final project for IBM Git and GitHub Coursera course
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
